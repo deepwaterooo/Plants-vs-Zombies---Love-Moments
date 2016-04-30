@@ -1,0 +1,9 @@
+* Plants vs Zombies - Love Moments
+- A love story version of plants vs zombies android opengl 3d game. 
+- The original ideas came from youtube videoes which I watched last night, and feel want to make a version of my own, with feels & moments originally came from the most cherished moments for my life.  
+- Will start work in this one after tetris opengl game is done. 
+- Target for June 2016 to be finished, could extends to Sep 2016 depends on how much time I could devote on my study every day. 
+- To be continued. 
+
+* References
+- http://www.voidcn.com/blog/codehxy/article/p-2222553.html
