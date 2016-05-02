@@ -1,0 +1,17 @@
+/Users/qunyan/unity/firstUnity/Temp/bin/Debug/UnityEngine.dll
+/Users/qunyan/unity/firstUnity/Temp/bin/Debug/UnityEditor.dll
+/Users/qunyan/unity/firstUnity/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/qunyan/unity/firstUnity/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/qunyan/unity/firstUnity/Temp/bin/Debug/Mono.Cecil.dll
+/Users/qunyan/unity/firstUnity/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/qunyan/unity/firstUnity/Temp/bin/Debug/Unity.DataContract.dll
+/Users/qunyan/unity/firstUnity/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/qunyan/unity/firstUnity/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/qunyan/unity/firstUnity/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/qunyan/unity/firstUnity/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/qunyan/unity/firstUnity/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/qunyan/unity/firstUnity/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/qunyan/unity/firstUnity/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/qunyan/unity/firstUnity/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/qunyan/unity/firstUnity/obj/Debug/Assembly-CSharp.dll
+/Users/qunyan/unity/firstUnity/obj/Debug/Assembly-CSharp.dll.mdb
